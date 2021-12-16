@@ -7,4 +7,4 @@ Collection of great product resources
 ## Articles collection
 * [Lennys favorite product templates](https://www.lennysnewsletter.com/p/my-favorite-templates-issue-37)
 * [VMware Pivotal Labs Miro Templates](https://miro.com/miroverse/profile/vmware-pivotal-labs/)
-
+* [Awesome product management](https://github.com/dend/awesome-product-management)

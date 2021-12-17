@@ -2,6 +2,7 @@
 Collection of great product resources
 
 ## User & Job stories
+* https://css-tricks.com/writing-feature-requirements/
 * https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27
 
 ## Articles collection
